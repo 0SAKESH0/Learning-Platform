@@ -147,7 +147,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Learning-Platform.git
+   git clone https://github.com/0SAKESH0/Learning-Platform.git
    cd Learning-Platform
    ```
 
@@ -453,7 +453,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 If you have any questions or need support:
 - Create an issue in the GitHub repository
 - Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/Learning-Platform](https://github.com/yourusername/Learning-Platform)
+- Project Link: [https://github.com/0SAKESH0/Learning-Platform](https://github.com/0SAKESH0/Learning-Platform)
 
 ---
 
